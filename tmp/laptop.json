@@ -1,0 +1,61 @@
+{
+	"id": "45ee9472-4f83-48ed-a49a-91b5581c98ea",
+	"brand": "Dell",
+	"name": "Alienware",
+	"cpu": {
+		"brand": "Intel",
+		"name": "Core i7-9750H",
+		"numberCores": 3,
+		"numberThreads": 6,
+		"minGhz": 3.0341493203817995,
+		"maxGhz": 3.5451936656340686
+	},
+	"ram": {
+		"value": "53",
+		"unit": "GIGABYTE"
+	},
+	"gpus": [
+		{
+			"brand": "Nvidia",
+			"name": "GTX 1070",
+			"minGhz": 1.2049422379628352,
+			"maxGhz": 1.5296612902832043,
+			"memory": {
+				"value": "3",
+				"unit": "GIGABYTE"
+			}
+		}
+	],
+	"storages": [
+		{
+			"driver": "SSD",
+			"memory": {
+				"value": "648",
+				"unit": "GIGABYTE"
+			}
+		},
+		{
+			"driver": "HDD",
+			"memory": {
+				"value": "6",
+				"unit": "TERABYTE"
+			}
+		}
+	],
+	"screen": {
+		"sizeInch": 15.163455,
+		"resolution": {
+			"width": 6828,
+			"height": 3841
+		},
+		"panel": "IPS",
+		"multitouch": true
+	},
+	"keyboard": {
+		"layout": "QWERTZ"
+	},
+	"weightKg": 2.1603877778459006,
+	"priceUsd": 2197.50045555706,
+	"releaseYear": 2016,
+	"updatedAt": "2020-06-29T16:09:27.524036339Z"
+}
